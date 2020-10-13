@@ -13,7 +13,7 @@
 ### Languages, APIs and Tools:
 
 [<img align="left" alt="PHP" width="26px" height="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/1024px-PHP-logo.svg.png" />](https://php.net)
-[<img align="left" alt="VSC" width="26px" src="https://images.app.goo.gl/F3WCQ3qGjy4ixWjZ8" />](https://code.visualstudio.com/)
+[<img align="left" alt="VS Code" width="26px" src="https://de.m.wikipedia.org/wiki/Datei:Visual_Studio_Code_1.35_icon.svg" />](https://code.visualstudio.com/)
 [<img align="left" alt="PHPStorm" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Phpstorm.png" />](https://www.jetbrains.com/phpstorm/)
 <br />
 
